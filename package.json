@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-cicd-project",
+  "version": "1.0.0",
+  "description": "Node.js app with GitHub Actions CI/CD to DockerHub",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
